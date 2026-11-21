@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://foxems.github.io/"><img src="assets/hero.webp" alt="FOXEMS: the pixel wordmark flies together over a gold-framed panorama of living pixel-art worlds" width="100%"></a>
+<a href="https://foxems.github.io/"><img src="assets/hero.webp" alt="FOXEMS: the pixel wordmark flies together over a gold framed panorama of animated pixel worlds" width="100%"></a>
 
 <img src="assets/tagline.svg" alt="I watch too much anime and play too many games. 15 living worlds, 3D pixel art, and an opera in pure canvas." width="100%">
 
@@ -21,27 +21,22 @@
 
 <p><img src="assets/h-about.svg" alt="What is this" width="100%"></p>
 
-**Hi, I'm Foxems.** I watch too much anime and play too many games, and somewhere in between I built a personal
-corner of the internet that behaves less like a website and more like a living pixel-art toybox. Behind the window
-sit fifteen animated worlds, a ray-cast 3D fox patrolling the top edge, a full two-minute pixel opera, 3D voxel
-collectible booster packs, an interactive 3D PC rig, and a steam train carrying every title I've watched or played.
+**Hi, I'm Foxems.** I watch too much anime and play too many games. Somewhere along the way, I ended up building a little pixel art playground on the web instead of a normal profile page. Inside, you'll find 15 animated worlds, a 3D fox wandering across the top of the screen, a short pixel opera, 3D voxel booster packs, an interactive 3D version of my PC setup, and a steam train carrying every title I've watched or played.
 
 > [!TIP]
-> It's not a normal "about me" page. **[Open foxems.github.io](https://foxems.github.io/) and poke around** — almost everything reacts.
+> **[Open foxems.github.io](https://foxems.github.io/)** and click around. Almost everything on the page reacts when you poke it.
 
 <br>
 
 <p><img src="assets/h-atelier.svg" alt="3D Pixel Atelier: Voxels and Sprite Stacks" width="100%"></p>
 
-Hand-sculpted 3D voxel volumes and sprite-stacked pixel art, baked with directional ambient occlusion, quantized
-turntable lighting, and single-pass outer outlines — rendered at crisp integer pixel scale with zero blur.
+Little 3D voxel models and sprite stacked pixel art sculpted by hand, rendered with baked shadows, clean outlines, and sharp pixel scaling so nothing blurs.
 
 <div align="center">
 
-<a href="https://foxems.github.io/"><img src="assets/3d-bloom.webp" alt="Potted Bloom: 58-slice 3D sprite-stacked pixel flower rotating 360 degrees" width="24.2%"></a>
-<a href="https://foxems.github.io/?scene=sakura&boot=0"><img src="assets/3d-river.webp" alt="Sakura River: 54-slice 3D cherry blossom river diorama with live flowing water" width="24.2%"></a>
-<a href="https://foxems.github.io/opera/"><img src="assets/3d-crown.webp" alt="Crown of Embers: 25-slice royal 3D pixel crown with rising ember sparks" width="24.2%"></a>
-<a href="https://foxems.github.io/"><img src="assets/3d-fox.webp" alt="The 3D Fox: live ray-cast 3D pixel fox mascot" width="24.2%"></a>
+<a href="https://foxems.github.io/"><img src="assets/3d-bloom.webp" alt="Potted Bloom: rotating 3D pixel flower made from 58 sprite slices" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=sakura&boot=0"><img src="assets/3d-river.webp" alt="Sakura River: 3D cherry blossom river diorama made from 54 sprite slices with flowing water" width="32.5%"></a>
+<a href="https://foxems.github.io/"><img src="assets/3d-fox.webp" alt="The 3D Fox: live raycast 3D pixel fox mascot" width="32.5%"></a>
 
 </div>
 
@@ -49,12 +44,11 @@ turntable lighting, and single-pass outer outlines — rendered at crisp integer
 
 <p><img src="assets/h-opera.svg" alt="Crown of Embers: Pixel Opera" width="100%"></p>
 
-An original pixel-art concert hall with a full orchestra, choir, war drums, falling rose petals, and one crowned fox
-watching from the royal box. About two minutes long — headphones strongly recommended.
+A short pixel concert hall experience with an orchestra, choir, war drums, falling rose petals, and a crowned fox watching from the royal box. It runs for about two minutes, and it is much better with headphones on.
 
 <div align="center">
 
-<a href="https://foxems.github.io/opera/"><img src="assets/opera.webp" alt="Crown of Embers: a pixel-art concert hall with an orchestra, choir, rose petals falling, and a crowned fox in the royal box" width="100%"></a>
+<a href="https://foxems.github.io/opera/"><img src="assets/opera.webp" alt="Crown of Embers: a pixel concert hall with an orchestra, choir, falling rose petals, and a crowned fox in the royal box" width="100%"></a>
 
 <sub><b><a href="https://foxems.github.io/opera/">Enter the opera →</a></b> &nbsp;·&nbsp; Press <kbd>O</kbd> anywhere on the site</sub>
 
@@ -64,27 +58,25 @@ watching from the royal box. About two minutes long — headphones strongly reco
 
 <p><img src="assets/h-world.svg" alt="The World: 15 living pixel scenes" width="100%"></p>
 
-Fifteen living pixel worlds, each with its own creatures, weather, soundscape, and day/night lighting. Thorfinn and
-Askeladd clash blades on a fjord cliff, a brass orrery turns in a snowlit clock tower, neon rain washes over Night
-City, a whale breaches at dusk, and a black hole bends the starfield. **Click any scene to step straight into it.**
+There are 15 animated pixel worlds in total, each with its own weather, creatures, ambient sound, and day and night lighting. Watch Thorfinn and Askeladd duel on a fjord cliff, a brass orrery spin inside a snowy clock tower, rain fall over Night City, a whale breach at dusk, or a black hole bend the stars around it. **Click any scene below to jump right in.**
 
 <div align="center">
 
-<a href="https://foxems.github.io/?scene=vinland&boot=0"><img src="assets/scenes/vinland-live.webp" alt="Vinland Saga: animated pixel-art fjord cliffside duel between Thorfinn and Askeladd" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=orrery&boot=0"><img src="assets/scenes/orrery-live.webp" alt="The Brass Orrery: animated turning solar system in a snowlit clock tower" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=vinland&boot=0"><img src="assets/scenes/vinland-live.webp" alt="Vinland Saga: animated pixel fjord cliffside duel between Thorfinn and Askeladd" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=orrery&boot=0"><img src="assets/scenes/orrery-live.webp" alt="The Brass Orrery: animated turning solar system in a snowy clock tower" width="32.5%"></a>
 <a href="https://foxems.github.io/?scene=city&boot=0"><img src="assets/scenes/city-live.webp" alt="Neon City: animated cyberpunk rain, flying traffic, and holographic koi" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=sea&boot=0"><img src="assets/scenes/sea.png" alt="Moonlit Sea, a pixel-art scene" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=sakura&boot=0"><img src="assets/scenes/sakura.png" alt="Sakura & Fuji, a pixel-art scene" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=bamboo&boot=0"><img src="assets/scenes/bamboo.png" alt="Bamboo Valley, a pixel-art scene" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=reef&boot=0"><img src="assets/scenes/reef.png" alt="Sunlit Reef, a pixel-art scene" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=volcano&boot=0"><img src="assets/scenes/volcano.png" alt="Molten Vale, a pixel-art scene" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=blackhole&boot=0"><img src="assets/scenes/blackhole.png" alt="Event Horizon, a ray-traced pixel black hole" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=nebula&boot=0"><img src="assets/scenes/nebula.png" alt="Jelly Nebula, a pixel-art scene" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=lofi&boot=0"><img src="assets/scenes/lofi.png" alt="Lo-fi Room, a cozy pixel bedroom with the real PC rig" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=lake&boot=0"><img src="assets/scenes/lake.png" alt="Alpine Lake, a pixel-art scene" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=forest&boot=0"><img src="assets/scenes/forest.png" alt="Deep Forest, a pixel-art scene" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=fields&boot=0"><img src="assets/scenes/fields.png" alt="Wheat Fields, a pixel-art scene" width="32.5%"></a>
-<a href="https://foxems.github.io/?scene=isles&boot=0"><img src="assets/scenes/isles.png" alt="Twin Isles, a pixel-art scene" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=sea&boot=0"><img src="assets/scenes/sea.png" alt="Moonlit Sea, a pixel scene" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=sakura&boot=0"><img src="assets/scenes/sakura.png" alt="Sakura & Fuji, a pixel scene" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=bamboo&boot=0"><img src="assets/scenes/bamboo.png" alt="Bamboo Valley, a pixel scene" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=reef&boot=0"><img src="assets/scenes/reef.png" alt="Sunlit Reef, a pixel scene" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=volcano&boot=0"><img src="assets/scenes/volcano.png" alt="Molten Vale, a pixel scene" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=blackhole&boot=0"><img src="assets/scenes/blackhole.png" alt="Event Horizon, a raytraced pixel black hole" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=nebula&boot=0"><img src="assets/scenes/nebula.png" alt="Jelly Nebula, a pixel scene" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=lofi&boot=0"><img src="assets/scenes/lofi.png" alt="Lofi Room, a cozy pixel bedroom with my PC rig" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=lake&boot=0"><img src="assets/scenes/lake.png" alt="Alpine Lake, a pixel scene" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=forest&boot=0"><img src="assets/scenes/forest.png" alt="Deep Forest, a pixel scene" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=fields&boot=0"><img src="assets/scenes/fields.png" alt="Wheat Fields, a pixel scene" width="32.5%"></a>
+<a href="https://foxems.github.io/?scene=isles&boot=0"><img src="assets/scenes/isles.png" alt="Twin Isles, a pixel scene" width="32.5%"></a>
 
 </div>
 
@@ -92,9 +84,7 @@ City, a whale breaches at dusk, and a black hole bends the starfield. **Click an
 
 <p><img src="assets/h-top.svg" alt="Top 10 Relics: 3D Booster Packs" width="100%"></p>
 
-Click my avatar (or press <kbd>F</kbd>) to unbox my five favourite anime and five favourite games as
-**3D holographic voxel relic cards**. Swipe the top seam of a sealed foil pack to tear it open in a pillar of light,
-orbit the sculpted 3D artifact, flip the card, or swap its aura.
+Click my avatar or press <kbd>F</kbd> to open my five favourite anime and five favourite games as **3D holographic voxel cards**. Swipe across the top of a sealed foil pack to rip it open, spin the 3D model around, flip the card over, or switch up its aura.
 
 <div align="center">
 
@@ -116,8 +106,7 @@ orbit the sculpted 3D artifact, flip the card, or swap its aura.
 
 <p><img src="assets/h-rig.svg" alt="The Inventory: 3D Voxel PC Rig" width="100%"></p>
 
-Press <kbd>I</kbd> on the site to open my RPG equipment screen: four full **3D voxel dioramas** (Montech XR pillarless
-PC, dual-screen view, desk peripherals, and walnut stereo & plants) plus 360° hero inspection for every single part.
+Press <kbd>I</kbd> on the site to check out my PC setup laid out like an RPG inventory screen. There are four **3D voxel dioramas** covering my Montech XR PC, dual monitors, desk gear, and walnut speakers with plants, plus a full 360° view of every single part.
 
 <div align="center">
 
@@ -130,20 +119,19 @@ PC, dual-screen view, desk peripherals, and walnut stereo & plants) plus 360° h
 | Slot | Gear | Spec |
 |:--|:--|:--|
 | **GPU** `MYTHIC` | AMD Radeon RX 9070 XT | 16 GB GDDR6 · RDNA 4 · Set Bonus: **Team Red (2/2)** |
-| **CPU** `LEGENDARY` | AMD Ryzen 7 7800X3D | 8C / 16T · 96 MB 3D V-Cache · 5.0 GHz |
-| **Memory** `LEGENDARY` | 32 GB DDR5 | 2 × 16 GB Dual Channel · ASUS TUF B650-Plus |
+| **CPU** `LEGENDARY` | AMD Ryzen 7 7800X3D | 8C / 16T · 96 MB 3D V Cache · 5.0 GHz |
+| **Memory** `LEGENDARY` | 32 GB DDR5 | 2 × 16 GB Dual Channel · ASUS TUF B650 Plus |
 | **Displays** `EPIC` | Lenovo Legion R27qe + ViewSonic VX2418C | 27" 1440p 180 Hz IPS + 24" 165 Hz Curved |
 
 <br>
 
 <p><img src="assets/h-train.svg" alt="The Train: 204 titles in motion" width="100%"></p>
 
-Every anime from my MyAnimeList and every game from my Steam library, one pixel-art cover per carriage window,
-rolling through the night. Stop it, drag it, search it, or poke the locomotive.
+Every anime from my MyAnimeList and every game in my Steam library rides along in its own train car, with a pixel cover in every window. You can pause the train, drag it around, search for any title, or poke the engine.
 
 <div align="center">
 
-<a href="https://foxems.github.io/"><img src="assets/train.webp" alt="The Anime Express: a pixel-art steam train carrying 141 anime covers through the night" width="100%"></a>
+<a href="https://foxems.github.io/"><img src="assets/train.webp" alt="The Anime Express: a pixel steam train carrying 141 anime covers through the night" width="100%"></a>
 
 </div>
 
@@ -151,8 +139,7 @@ rolling through the night. Stop it, drag it, search it, or poke the locomotive.
 
 <p><img src="assets/h-colors.svg" alt="Colors: 30 live themes" width="100%"></p>
 
-Thirty palettes, from **Ember** and **Cyberpunk** to **Rose Pine Dawn**, switched with animated pixel-pour transitions.
-Every color in the UI, the 3D fox, and the background world re-dresses itself in one click.
+There are 30 color palettes to pick from, ranging from **Ember** and **Cyberpunk** to **Rose Pine Dawn**, with a pouring pixel transition whenever you switch. One click updates the whole UI, the 3D fox, and the world behind it.
 
 <div align="center">
 
@@ -183,14 +170,13 @@ Hackerman · Tokyo Night · Catppuccin · Gruvbox Dark · Matte Black · Etherea
 
 </div>
 
-<sub>Synced from MyAnimeList and Steam into the site's pixel-art sprite sheets.</sub>
+<sub>Synced from MyAnimeList and Steam into the site's pixel sprite sheets.</sub>
 
 <br>
 
 <p><img src="assets/h-tools.svg" alt="Toolbox" width="100%"></p>
 
-Desktop apps, terminal tools, 3D pixel toys, and custom renderers — whatever the idea needs. The site itself runs with
-**zero build step and zero frameworks**, hand-drawn into HTML5 canvases one pixel at a time.
+I build desktop apps, terminal tools, 3D pixel toys, and custom renderers, using whatever fits the idea best. This whole site runs with **no build step and no frameworks**, drawn straight onto HTML5 canvases one pixel at a time.
 
 <div align="center">
 
@@ -208,16 +194,16 @@ Desktop apps, terminal tools, 3D pixel toys, and custom renderers — whatever t
 
 | Key | Action |
 |:-:|:--|
-| <kbd>T</kbd> | flip through all 30 color themes |
-| <kbd>R</kbd> | roll a random theme |
-| <kbd>B</kbd> | open the 15-scene world picker |
-| <kbd>F</kbd> | unbox the Top 10 3D relic booster packs |
-| <kbd>I</kbd> | open the 3D PC rig & battlestation inventory |
+| <kbd>T</kbd> | cycle through all 30 color themes |
+| <kbd>R</kbd> | pick a random theme |
+| <kbd>B</kbd> | open the world picker for all 15 scenes |
+| <kbd>F</kbd> | open the Top 10 3D booster packs |
+| <kbd>I</kbd> | open the 3D PC setup and gear inventory |
 | <kbd>V</kbd> | ride the steam train through all 204 titles |
-| <kbd>O</kbd> | enter **Crown of Embers** (pixel-art opera, headphones on) |
-| <kbd>M</kbd> | open the live Sound Deck mixer |
-| <kbd>H</kbd> | hide the UI for pure pixel wallpaper mode |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd> | command palette |
+| <kbd>O</kbd> | watch **Crown of Embers** (the pixel opera, best with headphones) |
+| <kbd>M</kbd> | open the live Sound Deck audio mixer |
+| <kbd>H</kbd> | hide the UI for clean wallpaper mode |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd> | open the command palette |
 
 </details>
 
@@ -225,9 +211,7 @@ Desktop apps, terminal tools, 3D pixel toys, and custom renderers — whatever t
 <summary><b>Things to poke</b></summary>
 <br>
 
-The 3D fox on the window ledge (it wears a custom outfit for every scene). The cliff in Vinland Saga to trigger the
-duel. The planets of the Brass Orrery. The neon towers in Night City. The train locomotive. The 3D Crown of Embers.
-If something looks like it might react, it probably does.
+Try clicking the 3D fox on the window ledge (it wears a different outfit for every scene), the cliff in Vinland Saga to start the duel, the planets in the Brass Orrery, the neon towers in Night City, the train engine, or the 3D Crown of Embers. If something looks clickable, it probably reacts.
 
 </details>
 
